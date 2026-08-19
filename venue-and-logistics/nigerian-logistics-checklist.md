@@ -38,7 +38,7 @@
 ## Catering & refreshments
 
 - [ ] Select catering vendor with event experience
-- [ ] Confirm menu options (include vegetarian/vegan choices)
+- [ ] Confirm menu options
 - [ ] Collect dietary restrictions from attendees during registration
 - [ ] Arrange water stations throughout venue
 - [ ] Plan coffee/tea service for morning sessions
