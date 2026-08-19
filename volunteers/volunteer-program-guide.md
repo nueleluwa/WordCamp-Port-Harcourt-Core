@@ -1,6 +1,6 @@
 # Volunteer Program Guide
 
-**Purpose:** What volunteering at WCPH actually involves — roles, shifts, training, and what volunteers receive. For how volunteers are recruited and the application form, see [recruiting/volunteer-recruitment-sop.md](../recruiting/volunteer-recruitment-sop.md).
+**Purpose:** What volunteering at WCPHC actually involves — roles, shifts, training, and what volunteers receive. For how volunteers are recruited and the application form, see [recruiting/volunteer-recruitment-sop.md](../recruiting/volunteer-recruitment-sop.md).
 
 **Owner:** Volunteer Coordinator
 
