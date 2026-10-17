@@ -67,7 +67,7 @@ Introduce speakers, manage session timing, coordinate Q&A sessions, handle techn
 Welcome arriving speakers, provide water and refreshments, assist with AV setup, escort speakers to stage, collect speaker feedback.
 
 ### Sponsor Booth Area
-Ensure sponsors have what they need, monitor booth traffic, coordinate sponsor speaking slots (where applicable, per [policies/wordcamp-central-compliance.md](../policies/wordcamp-central-compliance.md)), collect sponsor feedback.
+Ensure sponsors have what they need, monitor booth traffic, collect sponsor feedback.
 
 ### Media Coverage
 Capture photos of sessions, attendees, and networking; record video of keynotes (if approved); post real-time updates to social media; interview attendees for testimonials.

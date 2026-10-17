@@ -25,7 +25,7 @@ Full context: [planning/master-planning-timeline.md](../planning/master-planning
 
 ## The non-negotiable rule
 
-**Speaker slots cannot be purchased or influenced by sponsorship**, including the Platinum sponsor "keynote slot" benefit referenced in [sponsorship/sponsorship-strategy-and-tiers.md](../sponsorship/sponsorship-strategy-and-tiers.md) — any sponsor-affiliated speaker goes through the same review as every other submission. See [policies/wordcamp-central-compliance.md](../policies/wordcamp-central-compliance.md).
+**Speaker slots cannot be purchased or influenced by sponsorship.** No sponsorship tier includes a speaking slot (see [sponsorship/sponsorship-strategy-and-tiers.md](../sponsorship/sponsorship-strategy-and-tiers.md)). Any sponsor-affiliated speaker, whether they applied through the CFP or were invited by the Program team to speak on a particular topic, goes through the same review as every other submission and is judged on the topic and the speaker, never on sponsorship. Keep any such invitation separate from the sponsorship conversation. See [policies/wordcamp-central-compliance.md](../policies/wordcamp-central-compliance.md).
 
 ## KPIs
 
