@@ -98,6 +98,9 @@ If no response after Template 3, mark the prospect as closed-lost on the dashboa
 > 2. **Logo:** Please send us your company logo in high resolution (PNG or SVG) for use on our website and promotional materials.
 > 3. **Sponsor contact:** Please confirm the best contact person for sponsor communications.
 > 4. **Booth setup (if applicable):** We'll send specifications and setup instructions closer to the event date.
+> 5. **Sponsor page:** Please send a short company description (50–100 words) and the link you'd like us to use.
+> 6. **Tickets:** Please send the names of the staff who will use your complimentary tickets.
+> 7. **Other benefits (as included in your tier):** We'll follow up for your swag bag item, discount offer, raffle prize, and hiring board details.
 >
 > I've also attached our sponsorship agreement for your records. If you have any questions, please don't hesitate to reach out. We're excited to have you on board!
 >
