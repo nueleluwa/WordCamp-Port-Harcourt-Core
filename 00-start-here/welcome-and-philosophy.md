@@ -46,7 +46,7 @@ WCPHC operates inside rules set by WordCamp Central and the WordPress Foundation
 
 1. All WordCamps must be **not-for-profit** events.
 2. Events must be **open to all participants**, regardless of experience level.
-3. **Speaker slots cannot be purchased or influenced by sponsorship.** A Platinum sponsor gets visibility, not a guaranteed talk.
+3. **Speaker slots cannot be purchased or influenced by sponsorship.** No sponsorship tier includes speaking time — sponsors get visibility, not a talk.
 4. **All organizing team members are volunteers.** No paid organizer roles.
 5. **Financial transparency is required.** See [policies/wordcamp-central-compliance.md](../policies/wordcamp-central-compliance.md) and [planning/budget-and-finance-principles.md](../planning/budget-and-finance-principles.md).
 

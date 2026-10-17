@@ -12,7 +12,7 @@ Say so early, in your weekly report or directly to your Team Lead — see [repor
 
 ## "A sponsor is asking for a guaranteed speaking slot"
 
-Not allowed under any tier. Redirect them to the standard Call for Speakers process. See [policies/wordcamp-central-compliance.md](../policies/wordcamp-central-compliance.md) and [speakers-and-program/call-for-speakers-and-program-guide.md](../speakers-and-program/call-for-speakers-and-program-guide.md).
+Not allowed under any tier, and speaking time is never part of a sponsorship package. Redirect them to the standard Call for Speakers process. If the Program team separately wants a sponsor's representative to speak on a particular topic, that is a different conversation, handled by the Program team and reviewed like any other talk. See [policies/wordcamp-central-compliance.md](../policies/wordcamp-central-compliance.md) and [speakers-and-program/call-for-speakers-and-program-guide.md](../speakers-and-program/call-for-speakers-and-program-guide.md).
 
 ## "A confirmed volunteer just dropped out close to the event"
 

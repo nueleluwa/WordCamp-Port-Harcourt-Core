@@ -9,12 +9,12 @@
 
 | Tier | Amount (NGN) | Key Benefits |
 |---|---|---|
-| Platinum | ₦3,000,000 | Keynote slot, largest logo, booth space, social promotion |
+| Platinum | ₦3,000,000 | Largest logo, booth space, social promotion |
 | Gold | ₦1,500,000 | Booth space, website logo, stage mention |
 | Silver | ₦750,000 | Logo placement, social media mention |
 | Community | ₦250,000 | Small logo placement |
 
-**Hard rule, not a guideline:** speaking slots are never sold or guaranteed by sponsorship tier — see [policies/wordcamp-central-compliance.md](../policies/wordcamp-central-compliance.md). Even the Platinum "keynote slot" benefit is subject to the same program review as any other speaker submission.
+**Hard rule, not a guideline:** no tier includes speaking time. Speaking slots are never sold, guaranteed, or influenced by sponsorship, and must not appear in any tier, deck, outreach email, or agreement — see [policies/wordcamp-central-compliance.md](../policies/wordcamp-central-compliance.md). If the Program team separately wants a sponsor's representative to speak on a particular topic, that is a Program team decision, kept apart from the sponsorship and reviewed like any other talk.
 
 > **Open decision:** category exclusivity between competing sponsors is not yet defined — see [organisation/open-decisions-and-gaps.md](../organisation/open-decisions-and-gaps.md).
 

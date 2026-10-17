@@ -98,7 +98,6 @@ If no response after Template 3, mark the prospect as closed-lost on the dashboa
 > 2. **Logo:** Please send us your company logo in high resolution (PNG or SVG) for use on our website and promotional materials.
 > 3. **Sponsor contact:** Please confirm the best contact person for sponsor communications.
 > 4. **Booth setup (if applicable):** We'll send specifications and setup instructions closer to the event date.
-> 5. **Speaker slot (Platinum only):** If you've opted for a speaking slot, please send your proposed topic and speaker bio by [Deadline].
 >
 > I've also attached our sponsorship agreement for your records. If you have any questions, please don't hesitate to reach out. We're excited to have you on board!
 >

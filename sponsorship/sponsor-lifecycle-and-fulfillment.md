@@ -13,8 +13,7 @@ Triggered by sending Template 4 in [sponsorship/sponsorship-outreach-playbook.md
 3. High-resolution logo collected (PNG or SVG)
 4. Sponsor contact person confirmed for ongoing communications
 5. Booth specifications sent (if the tier includes booth space) — coordinate with Logistics, see [venue-and-logistics/nigerian-logistics-checklist.md](../venue-and-logistics/nigerian-logistics-checklist.md)
-6. Speaker topic and bio collected by deadline (Platinum only, subject to normal program review — see [policies/wordcamp-central-compliance.md](../policies/wordcamp-central-compliance.md))
-7. Logo added to website and promotional materials (hand off to Marketing — [marketing-and-communications/](../marketing-and-communications/))
+6. Logo added to website and promotional materials (hand off to Marketing — [marketing-and-communications/](../marketing-and-communications/))
 
 Track each step's completion on the sponsor's dashboard record, not as a side checklist — see [reporting-and-kpis/dashboard-and-tracking-setup.md](../reporting-and-kpis/dashboard-and-tracking-setup.md).
 

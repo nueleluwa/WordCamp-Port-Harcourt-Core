@@ -16,7 +16,6 @@
 
 **What WordCamp offers training hubs:**
 - Free tickets for their students/graduates
-- Speaking opportunities for their instructors (subject to normal program review — see [policies/wordcamp-central-compliance.md](../policies/wordcamp-central-compliance.md))
 - Booth space to showcase their programs
 - Cross-promotion on social media
 - Certificate of partnership
@@ -24,7 +23,7 @@
 **What training hubs offer WordCamp:**
 - Promotion to their student base
 - Venue for pre-event workshops
-- Speaker referrals
+- Speaker referrals (referred instructors apply through the Call for Speakers and are reviewed like any other submission)
 - Volunteer recruitment
 - Credibility and reach
 
@@ -32,7 +31,7 @@
 
 | Tier | Hub commitment | WordCamp benefits |
 |---|---|---|
-| Platinum Partner | Promote to 200+ students, host workshop | 10 free tickets, speaking slot, booth, logo on website |
+| Platinum Partner | Promote to 200+ students, host workshop | 10 free tickets, booth, logo on website |
 | Gold Partner | Promote to 100+ students | 5 free tickets, booth space, logo on website |
 | Silver Partner | Promote to 50+ students | 3 free tickets, logo on website |
 | Community Partner | Share with students | 2 free tickets, mention in newsletter |
@@ -51,7 +50,6 @@
 >
 > What we offer [Hub Name]:
 > - [X] complimentary tickets for your top students
-> - Speaking slot for one of your instructors (if interested)
 > - Recognition as an Education Partner on all materials
 > - Booth space at the event to showcase your programs
 > - Cross-promotion to our community of 500+ WordPress professionals
